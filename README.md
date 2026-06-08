@@ -44,8 +44,8 @@ Continuously certified since 2013. All core credentials renewed annually.
 
 | Competition | Status | Result |
 |-------------|--------|--------|
-| **Wiz Ultimate Cloud Security Championship** | Ongoing · 2025–2026 | 11 / 12 challenges |
-| **hackArcana — Kubernetes Security Track** | Active | Top 100 globally · 455 pts |
+| **Wiz Ultimate Cloud Security Championship** | Completed · 2025–2026 | 12 / 12 challenges |
+| **hackArcana — Kubernetes Security Track** | Ended | Top 100 globally · 455 pts |
 
 Cloud security championships and CTF challenges — not as a hobby separate from work, but because understanding how environments are attacked makes me a better architect of their defences.
 
